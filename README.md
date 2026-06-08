@@ -24,10 +24,6 @@ Frontend Developer passionate about building clean, fast, and responsive web int
   <a href="mailto:Abdallahmohamedgomaa1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-22c55e?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-
-  <a href="https://t.me/username">
-    <img src="https://img.shields.io/badge/Telegram-22c55e?style=for-the-badge&logo=telegram&logoColor=black" />
-  </a>
 </p>
 
 ---
